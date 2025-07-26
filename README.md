@@ -2,7 +2,7 @@
 
 **Champion-Winning University Administrative Platform**
 
-The Internal Job Management System is a comprehensive PHP-powered web application that streamlines UA/Grader applications, thesis project management, and job posting processes within university environments. This award-winning project significantly improves university administrative efficiency and enhances student-faculty interactions through automated workflows.
+The UIU Internal Job Management System is a comprehensive PHP-powered web application that streamlines UA/Grader applications, thesis project management, and job posting processes within university environments. This award-winning project significantly improves university administrative efficiency and enhances student-faculty interactions through automated workflows.
 
 
 ## 🏆 Project Recognition
