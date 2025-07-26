@@ -1,4 +1,4 @@
-# 🏆 Internal Job Management System
+# 🏆 UIU Internal Job Management System
 
 **Champion-Winning University Administrative Platform**
 
